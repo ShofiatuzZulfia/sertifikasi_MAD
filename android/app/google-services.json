@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311119662919",
+    "project_id": "moments-a3157",
+    "storage_bucket": "moments-a3157.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311119662919:android:666b9634345919dfa60662",
+        "android_client_info": {
+          "package_name": "com.example.moments"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-KyY1nt0Q0bWsFY66cBrQMCBoIHCWozU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
